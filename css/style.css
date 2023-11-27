@@ -81,7 +81,7 @@ nav > ul > li > #link_for {
 }
 .hero_page{
     height: 100vh;
-    background-image: url(/Logo/main_pic.jpg);
+    background-image: url(Logo/main_pic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: fixed;
